@@ -1,0 +1,361 @@
+state,region,month,aqi,PM2.5,NO2,CO,SO2,O3,health_risk
+Jammu and Kashmir,North,January,131,57.95,17.08,4.73,16.58,36.23,Moderate
+Jammu and Kashmir,North,February,107,38.13,13.58,3.63,8.57,27.2,Moderate
+Jammu and Kashmir,North,March,111,40.37,11.26,2.53,14.75,32.1,Moderate
+Jammu and Kashmir,North,April,80,25.66,14.73,2.26,10.72,17.04,Satisfactory
+Jammu and Kashmir,North,May,84,39.78,11.18,2.91,9.92,23.92,Satisfactory
+Jammu and Kashmir,North,June,62,24.77,11.96,1.75,5.99,16.16,Satisfactory
+Jammu and Kashmir,North,July,54,19.97,9.98,1.13,3.6,12.66,Satisfactory
+Jammu and Kashmir,North,August,55,18.46,7.19,1.45,5.62,12.59,Satisfactory
+Jammu and Kashmir,North,September,83,36.25,12.04,2.88,6.13,16.79,Satisfactory
+Jammu and Kashmir,North,October,117,35.62,17.66,4.47,15.65,32.1,Moderate
+Jammu and Kashmir,North,November,106,35.36,11.9,2.85,5.78,31.22,Moderate
+Jammu and Kashmir,North,December,167,77.44,25.12,3.67,9.7,38.63,Moderate
+Himachal Pradesh,North,January,133,39.97,18.87,3.81,10.44,35.62,Moderate
+Himachal Pradesh,North,February,116,41.93,13.77,2.44,6.23,33.39,Moderate
+Himachal Pradesh,North,March,72,33.99,8.02,2.09,8.0,14.85,Satisfactory
+Himachal Pradesh,North,April,62,25.51,8.96,2.18,3.18,13.22,Satisfactory
+Himachal Pradesh,North,May,55,23.66,9.27,1.35,5.04,14.36,Satisfactory
+Himachal Pradesh,North,June,64,23.58,7.06,1.93,4.47,16.85,Satisfactory
+Himachal Pradesh,North,July,51,18.11,8.23,1.95,3.59,15.23,Satisfactory
+Himachal Pradesh,North,August,55,25.61,8.47,1.74,7.25,13.43,Satisfactory
+Himachal Pradesh,North,September,59,24.85,7.46,1.7,5.36,13.82,Satisfactory
+Himachal Pradesh,North,October,84,33.57,13.12,2.67,8.59,23.44,Satisfactory
+Himachal Pradesh,North,November,82,33.84,12.7,2.98,6.67,23.01,Satisfactory
+Himachal Pradesh,North,December,145,69.2,16.84,4.3,12.47,34.67,Moderate
+Punjab,North,January,268,122.12,40.77,10.0,22.63,70.28,Poor
+Punjab,North,February,163,49.19,30.5,5.11,19.01,39.54,Moderate
+Punjab,North,March,144,63.64,26.93,5.73,7.57,33.22,Moderate
+Punjab,North,April,132,52.48,26.17,3.04,13.95,39.32,Moderate
+Punjab,North,May,118,36.05,21.3,4.32,15.77,33.49,Moderate
+Punjab,North,June,126,60.42,22.75,4.64,14.37,28.08,Moderate
+Punjab,North,July,80,31.88,15.13,2.87,4.24,22.68,Satisfactory
+Punjab,North,August,93,43.45,17.91,2.94,13.35,21.74,Satisfactory
+Punjab,North,September,111,53.36,15.27,3.93,15.73,22.61,Moderate
+Punjab,North,October,141,48.57,26.53,4.75,20.74,37.65,Moderate
+Punjab,North,November,175,73.86,24.14,5.82,11.19,38.95,Moderate
+Punjab,North,December,226,71.54,38.12,4.6,22.94,60.37,Poor
+Uttarakhand,North,January,149,49.08,26.63,4.93,15.3,36.49,Moderate
+Uttarakhand,North,February,133,58.83,23.96,5.07,8.6,28.34,Moderate
+Uttarakhand,North,March,81,30.14,11.63,2.61,4.16,22.88,Satisfactory
+Uttarakhand,North,April,95,45.9,17.15,3.66,6.17,26.09,Satisfactory
+Uttarakhand,North,May,78,36.5,13.83,2.01,8.07,20.21,Satisfactory
+Uttarakhand,North,June,54,23.31,7.92,1.81,6.37,13.32,Satisfactory
+Uttarakhand,North,July,66,26.09,10.93,2.35,6.52,18.49,Satisfactory
+Uttarakhand,North,August,51,18.3,6.0,1.69,5.88,12.09,Satisfactory
+Uttarakhand,North,September,70,31.51,8.41,2.13,4.93,18.71,Satisfactory
+Uttarakhand,North,October,101,42.45,16.89,2.77,15.0,25.06,Moderate
+Uttarakhand,North,November,98,35.51,10.67,3.65,8.35,25.46,Satisfactory
+Uttarakhand,North,December,121,53.94,20.43,4.39,12.97,26.38,Moderate
+Haryana,North,January,257,96.29,48.92,9.32,28.81,57.83,Poor
+Haryana,North,February,196,75.04,31.79,6.86,20.46,41.51,Moderate
+Haryana,North,March,163,56.48,24.28,6.39,15.89,37.44,Moderate
+Haryana,North,April,133,58.47,21.71,3.15,8.42,32.11,Moderate
+Haryana,North,May,149,46.06,19.15,3.1,10.93,38.91,Moderate
+Haryana,North,June,127,54.99,22.59,4.81,13.62,35.71,Moderate
+Haryana,North,July,106,31.9,15.58,3.3,10.0,28.75,Moderate
+Haryana,North,August,114,40.24,14.66,2.32,13.71,27.89,Moderate
+Haryana,North,September,122,54.66,14.62,4.15,17.93,32.1,Moderate
+Haryana,North,October,141,54.02,23.13,2.94,17.4,42.17,Moderate
+Haryana,North,November,232,94.83,26.01,8.55,26.11,57.36,Poor
+Haryana,North,December,219,84.18,36.53,8.58,17.17,45.21,Poor
+Delhi,North,January,266,100.38,46.02,5.73,26.62,70.96,Poor
+Delhi,North,February,273,130.15,41.53,8.12,21.26,69.67,Poor
+Delhi,North,March,236,85.43,23.91,5.43,32.09,67.95,Poor
+Delhi,North,April,159,68.43,18.73,4.12,17.55,34.4,Moderate
+Delhi,North,May,191,93.94,30.43,5.81,22.15,52.99,Moderate
+Delhi,North,June,162,76.79,27.0,3.83,16.75,46.94,Moderate
+Delhi,North,July,149,69.81,27.23,4.5,13.69,41.07,Moderate
+Delhi,North,August,133,62.91,26.54,4.59,14.64,37.28,Moderate
+Delhi,North,September,152,69.6,26.83,3.84,19.86,45.15,Moderate
+Delhi,North,October,213,74.36,31.66,6.72,28.52,53.31,Poor
+Delhi,North,November,279,94.75,34.26,8.15,25.45,79.9,Poor
+Delhi,North,December,381,173.61,43.67,12.19,24.53,96.81,Very Poor
+Rajasthan,North,January,167,63.26,23.39,4.6,22.97,41.09,Moderate
+Rajasthan,North,February,145,45.16,21.47,4.26,15.02,40.25,Moderate
+Rajasthan,North,March,132,49.76,18.27,4.74,16.55,27.75,Moderate
+Rajasthan,North,April,136,56.12,18.69,3.48,7.09,34.2,Moderate
+Rajasthan,North,May,125,40.85,22.11,4.48,9.07,29.6,Moderate
+Rajasthan,North,June,100,34.54,13.55,3.94,7.2,25.64,Satisfactory
+Rajasthan,North,July,77,34.52,11.45,2.06,8.15,21.77,Satisfactory
+Rajasthan,North,August,74,32.79,10.01,2.55,5.23,18.62,Satisfactory
+Rajasthan,North,September,100,44.92,15.93,3.42,5.5,21.39,Satisfactory
+Rajasthan,North,October,129,50.84,23.33,3.7,14.16,26.99,Moderate
+Rajasthan,North,November,195,96.79,26.35,4.46,16.69,53.2,Moderate
+Rajasthan,North,December,203,99.02,35.85,6.75,12.49,44.36,Poor
+Uttar Pradesh,North,January,237,110.09,27.27,5.45,28.97,57.0,Poor
+Uttar Pradesh,North,February,251,111.35,25.44,5.99,29.28,62.32,Poor
+Uttar Pradesh,North,March,164,68.99,31.14,3.62,10.34,40.09,Moderate
+Uttar Pradesh,North,April,148,60.98,22.62,5.67,9.09,33.61,Moderate
+Uttar Pradesh,North,May,141,68.94,25.94,4.6,12.39,41.6,Moderate
+Uttar Pradesh,North,June,114,54.18,16.07,3.31,9.5,28.55,Moderate
+Uttar Pradesh,North,July,117,37.75,16.72,2.78,10.25,33.84,Moderate
+Uttar Pradesh,North,August,133,61.41,17.41,5.05,18.65,34.94,Moderate
+Uttar Pradesh,North,September,144,55.71,27.91,3.29,14.33,36.2,Moderate
+Uttar Pradesh,North,October,169,78.13,26.41,5.2,9.48,46.46,Moderate
+Uttar Pradesh,North,November,273,114.58,52.65,5.8,30.35,56.04,Poor
+Uttar Pradesh,North,December,257,94.43,45.22,6.58,24.79,74.89,Poor
+Bihar,East,January,201,94.52,35.7,6.43,28.43,57.06,Poor
+Bihar,East,February,176,83.94,23.48,4.41,24.2,36.13,Moderate
+Bihar,East,March,170,72.08,24.11,3.83,18.75,44.55,Moderate
+Bihar,East,April,161,78.96,23.45,5.4,22.91,38.11,Moderate
+Bihar,East,May,131,54.29,19.38,4.49,16.53,30.03,Moderate
+Bihar,East,June,105,35.65,12.34,2.8,9.87,30.73,Moderate
+Bihar,East,July,84,40.89,9.05,2.68,7.37,23.7,Satisfactory
+Bihar,East,August,103,51.28,15.89,2.89,11.47,22.87,Moderate
+Bihar,East,September,95,46.31,9.57,3.38,10.64,25.47,Satisfactory
+Bihar,East,October,137,58.02,14.05,3.45,17.57,41.02,Moderate
+Bihar,East,November,190,85.28,29.02,5.94,25.34,42.09,Moderate
+Bihar,East,December,255,123.88,28.57,5.83,28.51,73.58,Poor
+West Bengal,East,January,194,61.87,37.77,5.38,18.0,45.78,Moderate
+West Bengal,East,February,167,52.48,20.84,6.05,17.89,45.68,Moderate
+West Bengal,East,March,183,87.03,34.52,5.34,20.61,41.97,Moderate
+West Bengal,East,April,156,57.31,28.48,3.34,11.76,41.75,Moderate
+West Bengal,East,May,134,51.31,17.63,5.32,13.83,34.74,Moderate
+West Bengal,East,June,113,50.16,12.62,4.5,13.74,25.0,Moderate
+West Bengal,East,July,89,34.88,16.96,3.56,9.34,23.32,Satisfactory
+West Bengal,East,August,113,34.17,16.29,3.62,15.3,27.15,Moderate
+West Bengal,East,September,100,43.73,13.45,2.36,10.19,24.65,Satisfactory
+West Bengal,East,October,148,60.61,17.49,5.35,16.77,36.98,Moderate
+West Bengal,East,November,217,85.26,30.18,5.12,15.34,43.9,Poor
+West Bengal,East,December,254,103.88,27.37,6.65,21.86,68.94,Poor
+Jharkhand,East,January,151,50.98,23.54,3.34,13.32,34.08,Moderate
+Jharkhand,East,February,136,56.4,16.97,3.87,18.13,36.74,Moderate
+Jharkhand,East,March,117,53.03,14.48,3.64,7.52,24.44,Moderate
+Jharkhand,East,April,97,29.83,19.29,3.04,12.66,24.73,Satisfactory
+Jharkhand,East,May,110,45.43,20.27,3.79,15.19,26.85,Moderate
+Jharkhand,East,June,105,43.97,12.6,2.43,10.94,21.26,Moderate
+Jharkhand,East,July,81,33.16,15.04,2.28,11.83,17.42,Satisfactory
+Jharkhand,East,August,72,27.55,7.71,2.31,9.14,17.87,Satisfactory
+Jharkhand,East,September,81,30.01,13.31,2.86,8.82,21.97,Satisfactory
+Jharkhand,East,October,102,40.41,11.48,2.53,7.57,30.53,Moderate
+Jharkhand,East,November,178,61.66,31.74,5.61,17.03,50.24,Moderate
+Jharkhand,East,December,202,77.69,25.95,7.62,12.06,42.55,Poor
+Odisha,East,January,170,60.99,27.97,4.81,18.81,40.04,Moderate
+Odisha,East,February,139,50.98,23.78,5.0,18.18,35.27,Moderate
+Odisha,East,March,104,48.69,11.61,4.05,9.18,21.77,Moderate
+Odisha,East,April,121,53.23,18.82,3.74,16.62,25.18,Moderate
+Odisha,East,May,77,34.57,9.91,2.58,7.3,18.49,Satisfactory
+Odisha,East,June,74,23.47,7.78,2.0,8.45,20.16,Satisfactory
+Odisha,East,July,61,22.46,7.51,2.04,4.66,14.27,Satisfactory
+Odisha,East,August,62,20.18,8.48,1.72,6.53,17.06,Satisfactory
+Odisha,East,September,81,30.79,16.05,3.18,11.03,23.13,Satisfactory
+Odisha,East,October,93,43.51,10.21,3.03,5.87,26.7,Satisfactory
+Odisha,East,November,166,57.57,32.71,4.07,9.68,38.21,Moderate
+Odisha,East,December,187,92.58,32.31,6.47,10.75,40.98,Moderate
+Sikkim,Northeast,January,111,50.85,14.55,3.43,13.83,27.95,Moderate
+Sikkim,Northeast,February,99,30.54,11.8,2.41,9.17,23.14,Satisfactory
+Sikkim,Northeast,March,74,32.33,14.58,2.86,10.9,16.05,Satisfactory
+Sikkim,Northeast,April,55,17.9,9.04,1.27,7.92,13.08,Satisfactory
+Sikkim,Northeast,May,55,17.93,6.77,1.23,5.08,15.23,Satisfactory
+Sikkim,Northeast,June,51,24.44,9.06,1.51,3.69,12.25,Satisfactory
+Sikkim,Northeast,July,43,18.53,5.88,0.93,5.1,12.04,Good
+Sikkim,Northeast,August,39,18.36,5.36,1.04,4.03,10.0,Good
+Sikkim,Northeast,September,40,16.22,6.99,1.3,2.56,10.39,Good
+Sikkim,Northeast,October,73,36.47,11.39,1.8,4.39,16.02,Satisfactory
+Sikkim,Northeast,November,90,39.05,13.91,3.35,10.3,25.86,Satisfactory
+Sikkim,Northeast,December,115,36.73,20.29,4.08,12.99,28.68,Moderate
+Assam,Northeast,January,122,56.1,17.15,2.68,8.13,35.62,Moderate
+Assam,Northeast,February,105,40.63,11.74,3.21,15.65,24.51,Moderate
+Assam,Northeast,March,80,28.49,9.82,1.9,9.62,21.45,Satisfactory
+Assam,Northeast,April,94,36.44,16.23,3.11,13.36,22.11,Satisfactory
+Assam,Northeast,May,89,39.73,17.52,3.44,11.68,19.87,Satisfactory
+Assam,Northeast,June,64,29.54,10.23,2.51,5.06,16.07,Satisfactory
+Assam,Northeast,July,67,30.91,8.02,1.68,6.31,16.46,Satisfactory
+Assam,Northeast,August,70,22.14,13.4,1.99,6.66,20.62,Satisfactory
+Assam,Northeast,September,77,28.52,13.71,1.72,8.5,17.46,Satisfactory
+Assam,Northeast,October,73,24.45,9.16,2.64,3.75,15.64,Satisfactory
+Assam,Northeast,November,114,47.18,18.66,4.45,12.23,31.23,Moderate
+Assam,Northeast,December,143,65.35,23.24,5.09,20.22,40.12,Moderate
+Arunachal Pradesh,Northeast,January,68,20.49,12.62,2.59,4.73,19.58,Satisfactory
+Arunachal Pradesh,Northeast,February,77,24.53,11.58,1.86,4.61,17.29,Satisfactory
+Arunachal Pradesh,Northeast,March,69,21.74,13.51,2.06,9.68,17.69,Satisfactory
+Arunachal Pradesh,Northeast,April,46,22.29,7.7,1.29,4.73,11.82,Good
+Arunachal Pradesh,Northeast,May,43,17.19,5.0,1.46,4.04,10.0,Good
+Arunachal Pradesh,Northeast,June,47,17.59,8.4,1.51,4.33,10.0,Good
+Arunachal Pradesh,Northeast,July,41,20.21,5.0,1.37,3.44,10.0,Good
+Arunachal Pradesh,Northeast,August,31,13.57,5.0,0.7,4.14,10.0,Good
+Arunachal Pradesh,Northeast,September,39,19.21,5.9,0.79,5.23,10.0,Good
+Arunachal Pradesh,Northeast,October,57,20.48,10.7,2.21,8.5,16.71,Satisfactory
+Arunachal Pradesh,Northeast,November,80,38.43,12.87,1.89,4.97,21.35,Satisfactory
+Arunachal Pradesh,Northeast,December,85,42.17,13.34,3.08,8.99,23.82,Satisfactory
+Nagaland,Northeast,January,89,29.53,8.97,2.67,7.23,26.45,Satisfactory
+Nagaland,Northeast,February,100,31.69,15.92,2.37,7.3,26.89,Satisfactory
+Nagaland,Northeast,March,85,37.78,9.54,2.99,8.5,24.82,Satisfactory
+Nagaland,Northeast,April,66,26.79,10.4,2.4,7.2,15.65,Satisfactory
+Nagaland,Northeast,May,55,26.61,8.0,1.71,7.96,12.65,Satisfactory
+Nagaland,Northeast,June,56,20.08,6.48,1.96,6.4,15.32,Satisfactory
+Nagaland,Northeast,July,44,21.66,5.0,1.0,4.63,11.45,Good
+Nagaland,Northeast,August,53,24.44,7.13,1.28,2.85,15.38,Satisfactory
+Nagaland,Northeast,September,43,21.42,7.49,1.44,5.37,11.46,Good
+Nagaland,Northeast,October,54,19.04,10.29,1.4,6.05,11.42,Satisfactory
+Nagaland,Northeast,November,104,39.02,20.59,3.82,10.55,24.8,Moderate
+Nagaland,Northeast,December,115,45.92,12.47,2.44,10.24,31.1,Moderate
+Manipur,Northeast,January,90,36.43,11.07,2.08,6.18,21.33,Satisfactory
+Manipur,Northeast,February,88,35.87,9.95,2.67,6.69,20.87,Satisfactory
+Manipur,Northeast,March,95,34.52,11.37,1.9,12.69,26.5,Satisfactory
+Manipur,Northeast,April,58,17.52,5.8,1.91,4.87,13.46,Satisfactory
+Manipur,Northeast,May,61,28.56,10.06,1.64,7.39,15.44,Satisfactory
+Manipur,Northeast,June,45,22.2,6.47,1.08,3.5,11.33,Good
+Manipur,Northeast,July,51,20.31,6.09,1.35,6.26,14.86,Satisfactory
+Manipur,Northeast,August,57,27.68,10.55,2.24,6.42,11.43,Satisfactory
+Manipur,Northeast,September,60,22.61,7.7,2.33,5.6,16.74,Satisfactory
+Manipur,Northeast,October,80,39.61,13.35,1.81,5.8,17.82,Satisfactory
+Manipur,Northeast,November,81,35.23,13.9,3.04,5.59,23.92,Satisfactory
+Manipur,Northeast,December,102,42.48,18.98,3.42,15.06,28.73,Moderate
+Mizoram,Northeast,January,89,31.39,12.42,3.05,9.09,19.87,Satisfactory
+Mizoram,Northeast,February,85,38.3,11.26,3.19,12.4,24.23,Satisfactory
+Mizoram,Northeast,March,56,19.5,8.89,1.82,5.34,13.9,Satisfactory
+Mizoram,Northeast,April,68,20.97,9.24,2.53,4.68,18.7,Satisfactory
+Mizoram,Northeast,May,59,22.7,8.44,1.85,6.51,11.87,Satisfactory
+Mizoram,Northeast,June,41,18.62,5.0,0.84,2.63,10.0,Good
+Mizoram,Northeast,July,34,11.07,5.0,1.07,2.77,10.0,Good
+Mizoram,Northeast,August,38,18.29,5.0,1.02,2.26,10.0,Good
+Mizoram,Northeast,September,49,18.36,9.78,1.58,7.15,12.32,Good
+Mizoram,Northeast,October,65,29.0,12.13,1.56,8.31,18.43,Satisfactory
+Mizoram,Northeast,November,69,31.38,12.57,2.53,8.06,14.39,Satisfactory
+Mizoram,Northeast,December,96,31.21,16.77,2.5,9.76,28.42,Satisfactory
+Tripura,Northeast,January,114,49.51,21.02,4.19,17.06,33.97,Moderate
+Tripura,Northeast,February,94,28.71,18.6,2.25,5.31,19.61,Satisfactory
+Tripura,Northeast,March,96,47.06,19.01,3.62,9.97,19.77,Satisfactory
+Tripura,Northeast,April,72,33.24,10.87,2.46,6.49,18.45,Satisfactory
+Tripura,Northeast,May,59,20.62,11.29,1.44,4.79,17.58,Satisfactory
+Tripura,Northeast,June,52,22.92,9.72,1.91,7.75,10.81,Satisfactory
+Tripura,Northeast,July,58,18.97,10.03,2.32,7.17,14.84,Satisfactory
+Tripura,Northeast,August,60,19.28,7.61,1.42,6.79,13.15,Satisfactory
+Tripura,Northeast,September,65,21.58,12.11,1.47,8.54,14.36,Satisfactory
+Tripura,Northeast,October,67,21.55,7.22,1.72,5.82,14.03,Satisfactory
+Tripura,Northeast,November,89,43.33,17.09,2.7,12.56,23.1,Satisfactory
+Tripura,Northeast,December,146,54.97,20.89,3.14,17.65,38.9,Moderate
+Meghalaya,Northeast,January,111,38.72,13.63,3.17,5.79,25.58,Moderate
+Meghalaya,Northeast,February,78,32.27,8.3,2.3,11.13,20.7,Satisfactory
+Meghalaya,Northeast,March,76,23.75,9.0,1.64,5.59,22.57,Satisfactory
+Meghalaya,Northeast,April,75,27.37,13.26,2.1,5.66,18.4,Satisfactory
+Meghalaya,Northeast,May,71,30.94,8.99,2.04,4.69,15.74,Satisfactory
+Meghalaya,Northeast,June,61,25.76,9.58,1.28,5.14,18.13,Satisfactory
+Meghalaya,Northeast,July,52,18.4,5.99,1.81,5.53,15.58,Satisfactory
+Meghalaya,Northeast,August,36,15.08,6.57,1.15,3.6,10.0,Good
+Meghalaya,Northeast,September,61,26.38,10.72,1.92,4.22,13.71,Satisfactory
+Meghalaya,Northeast,October,68,26.38,10.99,1.51,4.44,13.71,Satisfactory
+Meghalaya,Northeast,November,100,49.18,13.54,3.03,14.59,20.64,Satisfactory
+Meghalaya,Northeast,December,111,42.86,21.24,2.23,5.9,26.08,Moderate
+Gujarat,West,January,227,111.26,22.87,7.93,16.88,66.28,Poor
+Gujarat,West,February,150,54.34,28.22,5.18,11.5,43.38,Moderate
+Gujarat,West,March,124,58.97,20.52,4.3,18.36,29.62,Moderate
+Gujarat,West,April,143,68.61,26.17,5.42,7.98,31.8,Moderate
+Gujarat,West,May,105,40.04,13.17,3.69,14.11,26.13,Moderate
+Gujarat,West,June,108,33.1,11.3,3.41,10.34,28.68,Moderate
+Gujarat,West,July,79,38.18,8.44,1.75,4.03,16.71,Satisfactory
+Gujarat,West,August,81,29.99,11.67,3.1,8.77,18.82,Satisfactory
+Gujarat,West,September,80,32.18,10.46,2.49,10.99,22.85,Satisfactory
+Gujarat,West,October,136,53.19,20.19,5.37,13.41,31.5,Moderate
+Gujarat,West,November,174,72.24,29.38,4.01,24.02,45.68,Moderate
+Gujarat,West,December,212,73.24,38.63,4.69,19.58,61.07,Poor
+Maharashtra,West,January,190,75.47,25.34,4.9,27.89,38.19,Moderate
+Maharashtra,West,February,147,45.83,24.95,5.75,8.25,32.27,Moderate
+Maharashtra,West,March,178,88.14,20.21,6.11,25.1,44.14,Moderate
+Maharashtra,West,April,153,75.47,22.83,4.73,17.95,40.97,Moderate
+Maharashtra,West,May,120,59.39,15.0,3.17,10.66,34.35,Moderate
+Maharashtra,West,June,97,36.12,16.51,2.53,8.14,22.83,Satisfactory
+Maharashtra,West,July,103,35.87,13.83,2.58,13.54,23.79,Moderate
+Maharashtra,West,August,98,46.76,13.79,2.01,14.13,23.09,Satisfactory
+Maharashtra,West,September,116,54.39,22.72,4.28,10.05,25.9,Moderate
+Maharashtra,West,October,146,59.05,28.07,3.53,7.38,37.38,Moderate
+Maharashtra,West,November,170,82.35,23.35,3.61,11.16,39.65,Moderate
+Maharashtra,West,December,259,117.92,37.78,6.7,21.64,60.49,Poor
+Goa,West,January,98,36.57,16.74,3.01,9.97,23.43,Satisfactory
+Goa,West,February,80,38.06,12.45,2.03,4.1,22.77,Satisfactory
+Goa,West,March,78,29.24,13.96,1.97,8.72,22.05,Satisfactory
+Goa,West,April,66,22.06,10.66,1.87,6.02,19.74,Satisfactory
+Goa,West,May,58,17.51,9.16,1.88,7.34,13.09,Satisfactory
+Goa,West,June,49,18.83,6.0,1.12,4.16,12.49,Good
+Goa,West,July,54,22.9,10.29,1.34,3.64,12.59,Satisfactory
+Goa,West,August,40,19.14,5.18,1.06,5.79,10.0,Good
+Goa,West,September,55,22.18,8.03,1.26,4.83,14.85,Satisfactory
+Goa,West,October,59,19.57,7.04,1.62,3.13,13.4,Satisfactory
+Goa,West,November,112,37.5,20.57,2.8,10.72,27.04,Moderate
+Goa,West,December,134,54.4,17.47,4.06,10.54,36.92,Moderate
+Madhya Pradesh,Central,January,212,67.92,32.81,4.58,17.84,52.49,Poor
+Madhya Pradesh,Central,February,164,69.97,22.12,6.56,20.73,33.88,Moderate
+Madhya Pradesh,Central,March,144,65.12,25.41,4.48,20.36,39.19,Moderate
+Madhya Pradesh,Central,April,126,38.0,24.49,3.45,14.92,36.91,Moderate
+Madhya Pradesh,Central,May,93,41.98,17.0,3.12,6.23,22.95,Satisfactory
+Madhya Pradesh,Central,June,96,31.84,13.81,2.08,8.55,23.21,Satisfactory
+Madhya Pradesh,Central,July,79,32.69,8.56,2.68,7.9,16.78,Satisfactory
+Madhya Pradesh,Central,August,86,28.56,9.52,3.32,6.38,23.25,Satisfactory
+Madhya Pradesh,Central,September,92,31.85,11.96,2.01,13.03,18.89,Satisfactory
+Madhya Pradesh,Central,October,109,44.71,14.19,3.19,5.95,27.16,Moderate
+Madhya Pradesh,Central,November,135,54.69,21.73,3.85,12.11,32.65,Moderate
+Madhya Pradesh,Central,December,218,71.8,39.03,4.52,11.73,44.84,Poor
+Chhattisgarh,Central,January,154,65.43,21.07,5.62,14.25,31.22,Moderate
+Chhattisgarh,Central,February,125,53.95,17.54,3.57,10.99,35.79,Moderate
+Chhattisgarh,Central,March,131,54.54,18.78,3.99,8.59,29.23,Moderate
+Chhattisgarh,Central,April,114,35.33,17.9,3.33,7.48,29.61,Moderate
+Chhattisgarh,Central,May,87,40.44,11.14,2.81,5.72,23.88,Satisfactory
+Chhattisgarh,Central,June,81,39.43,13.22,1.91,10.89,16.5,Satisfactory
+Chhattisgarh,Central,July,81,37.77,8.7,2.57,11.68,24.15,Satisfactory
+Chhattisgarh,Central,August,85,30.38,16.89,2.26,8.3,20.79,Satisfactory
+Chhattisgarh,Central,September,78,38.78,9.4,2.38,5.02,20.3,Satisfactory
+Chhattisgarh,Central,October,108,41.78,13.54,2.95,7.07,22.09,Moderate
+Chhattisgarh,Central,November,159,62.47,21.16,3.74,22.39,36.84,Moderate
+Chhattisgarh,Central,December,197,89.35,36.19,4.24,28.37,45.24,Moderate
+Andhra Pradesh,South,January,127,48.82,14.81,3.33,18.17,31.66,Moderate
+Andhra Pradesh,South,February,108,43.08,14.21,3.61,15.09,22.03,Moderate
+Andhra Pradesh,South,March,81,37.21,12.01,2.32,10.73,19.76,Satisfactory
+Andhra Pradesh,South,April,98,41.11,11.83,3.76,7.45,22.29,Satisfactory
+Andhra Pradesh,South,May,92,35.2,9.71,2.61,10.73,25.56,Satisfactory
+Andhra Pradesh,South,June,62,26.15,9.38,2.3,3.16,12.89,Satisfactory
+Andhra Pradesh,South,July,51,21.7,5.4,1.07,6.04,12.61,Satisfactory
+Andhra Pradesh,South,August,67,21.89,11.81,1.84,4.55,18.91,Satisfactory
+Andhra Pradesh,South,September,67,23.23,7.9,1.78,9.3,17.6,Satisfactory
+Andhra Pradesh,South,October,97,41.52,18.0,3.85,8.78,20.54,Satisfactory
+Andhra Pradesh,South,November,97,45.04,14.08,2.83,12.66,28.8,Satisfactory
+Andhra Pradesh,South,December,147,59.79,24.55,5.84,17.63,30.28,Moderate
+Karnataka,South,January,162,61.93,25.76,4.56,19.89,38.48,Moderate
+Karnataka,South,February,127,57.8,19.62,2.88,10.31,34.92,Moderate
+Karnataka,South,March,114,41.23,20.94,3.87,7.16,34.14,Moderate
+Karnataka,South,April,90,35.56,12.3,3.01,9.78,21.3,Satisfactory
+Karnataka,South,May,92,29.31,16.86,3.05,8.57,19.79,Satisfactory
+Karnataka,South,June,66,32.51,9.3,2.09,9.48,13.73,Satisfactory
+Karnataka,South,July,78,29.33,10.45,2.26,7.89,18.2,Satisfactory
+Karnataka,South,August,54,19.66,8.76,1.99,7.25,13.13,Satisfactory
+Karnataka,South,September,72,34.59,13.49,2.48,5.2,19.6,Satisfactory
+Karnataka,South,October,84,41.72,15.18,2.17,9.29,19.08,Satisfactory
+Karnataka,South,November,124,44.77,12.7,4.05,10.95,35.31,Moderate
+Karnataka,South,December,178,59.61,31.97,3.73,17.42,49.91,Moderate
+Tamil Nadu,South,January,165,61.89,23.57,6.0,14.05,38.49,Moderate
+Tamil Nadu,South,February,164,55.11,21.85,4.48,21.4,32.82,Moderate
+Tamil Nadu,South,March,115,42.67,18.12,4.58,14.66,29.99,Moderate
+Tamil Nadu,South,April,100,31.26,14.06,2.59,11.35,25.89,Satisfactory
+Tamil Nadu,South,May,93,35.3,12.61,3.04,9.79,22.49,Satisfactory
+Tamil Nadu,South,June,85,41.73,9.89,3.04,7.84,21.85,Satisfactory
+Tamil Nadu,South,July,64,30.3,9.74,1.68,9.25,14.96,Satisfactory
+Tamil Nadu,South,August,62,26.4,7.58,1.6,6.11,18.02,Satisfactory
+Tamil Nadu,South,September,93,28.21,12.2,3.52,13.51,23.91,Satisfactory
+Tamil Nadu,South,October,125,49.83,18.62,3.83,7.35,35.13,Moderate
+Tamil Nadu,South,November,172,73.64,23.35,4.8,20.41,46.93,Moderate
+Tamil Nadu,South,December,183,55.49,35.29,6.54,23.97,46.98,Moderate
+Kerala,South,January,82,28.87,16.07,2.24,11.56,20.26,Satisfactory
+Kerala,South,February,69,20.79,7.88,2.02,10.17,16.1,Satisfactory
+Kerala,South,March,80,32.47,12.53,1.61,9.21,20.04,Satisfactory
+Kerala,South,April,56,22.54,7.34,2.21,6.86,14.33,Satisfactory
+Kerala,South,May,45,20.3,6.2,1.25,4.99,11.16,Good
+Kerala,South,June,53,24.6,5.6,1.92,4.16,15.1,Satisfactory
+Kerala,South,July,36,12.69,5.0,1.27,3.16,10.0,Good
+Kerala,South,August,41,12.6,6.82,1.02,2.26,12.19,Good
+Kerala,South,September,58,27.98,6.07,2.0,7.15,12.96,Satisfactory
+Kerala,South,October,69,33.45,12.4,2.63,9.36,16.82,Satisfactory
+Kerala,South,November,74,31.54,7.6,1.84,9.99,17.49,Satisfactory
+Kerala,South,December,88,34.81,16.52,1.87,7.98,20.14,Satisfactory
+Telangana,South,January,170,81.38,21.89,6.72,13.86,40.31,Moderate
+Telangana,South,February,167,64.06,22.51,4.09,16.23,43.8,Moderate
+Telangana,South,March,137,53.86,14.03,3.73,8.57,28.05,Moderate
+Telangana,South,April,134,43.51,25.74,3.05,15.21,32.0,Moderate
+Telangana,South,May,114,42.83,19.93,2.32,14.48,24.15,Moderate
+Telangana,South,June,85,37.52,9.46,2.21,11.91,20.28,Satisfactory
+Telangana,South,July,66,27.66,7.94,1.5,6.51,13.39,Satisfactory
+Telangana,South,August,87,29.55,14.35,2.18,12.75,26.08,Satisfactory
+Telangana,South,September,107,43.94,12.54,3.91,6.3,28.72,Moderate
+Telangana,South,October,97,38.61,16.19,3.71,7.56,21.09,Satisfactory
+Telangana,South,November,162,62.61,31.09,6.04,8.42,35.66,Moderate
+Telangana,South,December,190,84.92,33.61,5.18,19.68,49.44,Moderate

@@ -9,6 +9,7 @@ import seaborn as sns
 import plotly_express as px
 import base64
 import pickle
+from india_map import show_india_map_page
 
 # Load model
 def load_model():
@@ -142,14 +143,35 @@ def show_explore_page():
             st.error(f"Error: {e}")
 
 # Main app
-page = st.sidebar.selectbox("Explore Or Predict", ("Predict", "Explore"))
+def load_lottie_india_map():
+    url = "https://assets3.lottiefiles.com/packages/lf20_WsHecI.json"
+    r = requests.get(url)
+    if r.status_code == 200:
+        return r.json()
+    return None
+
+# Add India Map animation to the sidebar
+india_map_animation = load_lottie_india_map()
+
+# Main app
+page = st.sidebar.selectbox("Navigation", ("Predict", "Explore", "India Map"))
 
 if page == "Predict":
     lottie_welcome = load_lottieurl("https://assets8.lottiefiles.com/packages/lf20_q5qeoo3q.json")
     st_lottie(lottie_welcome, key="welcome")
     show_predict_page()
 
-else:
+elif page == "Explore":
     lottie_hello = load_lottieurl("https://assets7.lottiefiles.com/packages/lf20_zlrpnoxz.json")
     st_lottie(lottie_hello, key="hello")
-    show_explore_page() 
+    show_explore_page()
+
+else:  # India Map page
+    # Display India map animation in sidebar if loaded successfully
+    if india_map_animation:
+        with st.sidebar:
+            st.write("### India Air Quality Map")
+            st_lottie(india_map_animation, height=200, key="india_map_sidebar")
+    
+    # Show the India Map page
+    show_india_map_page() 
