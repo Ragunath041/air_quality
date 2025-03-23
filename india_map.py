@@ -40,7 +40,7 @@ def load_lottie_data():
 # Load AQI data
 @st.cache_data
 def load_aqi_data():
-    df = pd.read_csv('Data/India_Map/india_aqi_monthly.csv')
+    df = pd.read_csv('./Data/India_Map/india_aqi_monthly.csv')
     return df
 
 # Load India GeoJSON
@@ -48,13 +48,13 @@ def load_aqi_data():
 def load_india_geojson():
     try:
         # Try loading the simpler GeoJSON first
-        with open('Data/India_Map/india_states_simple.geojson', 'r', encoding='utf-8') as f:
+        with open('./Data/India_Map/india_states_simple.geojson', 'r', encoding='utf-8') as f:
             geojson = json.load(f)
             return geojson
     except (FileNotFoundError, json.JSONDecodeError):
         try:
             # Fall back to the original GeoJSON if the simpler one fails
-            with open('Data/India_Map/india_states.geojson', 'r', encoding='utf-8') as f:
+            with open('./Data/India_Map/india_states.geojson', 'r', encoding='utf-8') as f:
                 geojson = json.load(f)
                 return geojson
         except (FileNotFoundError, json.JSONDecodeError):

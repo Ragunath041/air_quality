@@ -62,7 +62,7 @@ def show_explore_page():
     st.sidebar.subheader("Visualization Settings")
 
     def load_data():
-        df = pd.read_csv("final_data.csv")
+        df = pd.read_csv("./final_data.csv")
         return df
 
     df = load_data()
