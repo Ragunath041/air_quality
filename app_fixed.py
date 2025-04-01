@@ -1,6 +1,13 @@
+import streamlit as st
+# Must be the first Streamlit command
+st.set_page_config(
+    page_title="AirQuality.AI",
+    layout="wide",
+    initial_sidebar_state="collapsed"
+)
+
 import json
 import requests
-import streamlit as st
 from streamlit_lottie import st_lottie
 import pandas as pd
 import numpy as np
@@ -10,6 +17,7 @@ import plotly_express as px
 import base64
 import pickle
 from india_map import show_india_map_page
+from auth_pages import login_register_page, logout
 
 # Load model
 def load_model():
@@ -153,25 +161,36 @@ def load_lottie_india_map():
 # Add India Map animation to the sidebar
 india_map_animation = load_lottie_india_map()
 
-# Main app
-page = st.sidebar.selectbox("Navigation", ("Predict", "Explore", "India Map"))
+def main():
+    # Initialize session state
+    if 'logged_in' not in st.session_state:
+        st.session_state.logged_in = False
+    if 'page' not in st.session_state:
+        st.session_state.page = 'login'
 
-if page == "Predict":
-    lottie_welcome = load_lottieurl("https://assets8.lottiefiles.com/packages/lf20_q5qeoo3q.json")
-    st_lottie(lottie_welcome, key="welcome")
-    show_predict_page()
+    # Handle page routing
+    params = st.query_params
+    if 'page' in params:
+        st.session_state.page = params['page']
 
-elif page == "Explore":
-    lottie_hello = load_lottieurl("https://assets7.lottiefiles.com/packages/lf20_zlrpnoxz.json")
-    st_lottie(lottie_hello, key="hello")
-    show_explore_page()
-
-else:  # India Map page
-    # Display India map animation in sidebar if loaded successfully
-    if india_map_animation:
+    if not st.session_state.logged_in:
+        login_register_page()
+    else:
+        # Show main application
         with st.sidebar:
-            st.write("### India Air Quality Map")
-            st_lottie(india_map_animation, height=200, key="india_map_sidebar")
-    
-    # Show the India Map page
-    show_india_map_page() 
+            st.write(f"Welcome, {st.session_state.username}!")
+            if st.button("Logout"):
+                logout()
+
+        # Main navigation
+        page = st.sidebar.selectbox("Navigation", ("Predict", "Explore", "India Map"))
+        
+        if page == "Predict":
+            show_predict_page()
+        elif page == "Explore":
+            show_explore_page()
+        else:  # India Map page
+            show_india_map_page()
+
+if __name__ == "__main__":
+    main() 
